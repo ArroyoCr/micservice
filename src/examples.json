@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "mess": "prueba",
+        "from": "correoprueba@gmail.com",
+        "to": "correosend@gmail.com"
+    },
+    {
+        "id": "2",
+        "mess": "pruebaenviotwo",
+        "from": "correoprueba@gmail.com",
+        "to": "arroyomirandacarlos@gmail.com"
+    
+    }
+]
